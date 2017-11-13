@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin-top: 5px;
+}
+.clear{
+  clear: both;
+}
+
+/*左边*/
+.leftContainer {
+    width: 400px;
+    float: left;
+}
+/*轮播图片*/
+.carousel {
+    width: 400px;
+    float: left;
+}
+.carousel img {
+    width: 400px;
+    height: 260px;
+}
+
+
+
+/*right*/
+.rightContainer{
+  float: left;
+  margin-left: 20px
+}
+.rigtTabs{
+  /*width: 40%;*/
+}
